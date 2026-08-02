@@ -1,28 +1,210 @@
- ![logo](https://github.com/user-attachments/assets/79060d1d-1e3d-40bc-b4c2-45e076bc9401)
-
-<h1 align="center">Hi 👋, I'm Mehul Panchal</h1>
-<h3 align="center">I’m a passionate Web Developer with a love for building clean, responsive, and user-friendly web applications. I focus on creating seamless experiences while continually improving my skills in modern technologies.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulpanchal-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mehulpanchal-dev" /> </p>
-
-- 🌱 I’m currently learning **Angular, Vue**
-
-- 💬 Ask me about **PHP, Laravel**
-
-- 📫 How to reach me **mehulpanchal7059@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mehul-panchal-7781181b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-panchal-7781181b3" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/profile_banner.png" width="100%" alt="Mehul Panchal Banner">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1 align="center">
+Hi 👋, I'm Mehul Panchal
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehulpanchal-dev&show_icons=true&locale=en&layout=compact" alt="mehulpanchal-dev" /></p>
+<h3 align="center">
+Senior Software Engineer • Backend Developer • AWS Certified Cloud Practitioner
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulpanchal-dev&show_icons=true&locale=en" alt="mehulpanchal-dev" /></p>
+<p align="center">
+Building scalable software solutions with clean architecture, modern engineering practices, and a passion for continuous learning.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulpanchal-dev&" alt="mehulpanchal-dev" /></p>
+---
+
+# 👨‍💼 Executive Summary
+
+I'm a **Senior Software Engineer** with professional experience in designing, developing, and maintaining enterprise web applications.
+
+Over the years, I have worked on business-critical applications ranging from admin portals and RESTful APIs to complete web-based management systems. My focus is always on writing maintainable code, delivering reliable software, and creating solutions that solve real business problems.
+
+I believe software engineering is not only about writing code—it's about understanding requirements, designing scalable systems, collaborating effectively with teams, and continuously improving every aspect of the development lifecycle.
+
+---
+
+# 🚀 Professional Journey
+
+✔ Enterprise Web Application Development
+
+✔ Backend Architecture & API Development
+
+✔ Database Design & Optimization
+
+✔ Authentication & Authorization
+
+✔ Performance Optimization
+
+✔ Clean Code & Best Practices
+
+✔ Software Maintenance & Enhancement
+
+✔ Agile Development
+
+✔ Continuous Learning
+
+---
+
+# 🛠 Technical Expertise
+
+## Backend
+
+- PHP
+- Laravel
+- RESTful API Development
+
+## Frontend
+
+- JavaScript
+- Vue.js
+- HTML5
+- CSS3
+- Bootstrap
+
+## Database
+
+- MySQL
+
+## Tools
+
+- Git
+- Docker
+- Postman
+
+## Cloud
+
+- Amazon Web Services (AWS)
+
+---
+
+# 💡 What I Enjoy Building
+
+I enjoy working on applications that require strong backend architecture and business logic.
+
+Some examples include:
+
+- Enterprise Web Applications
+- Admin Dashboards
+- HR Management Systems
+- CRM Solutions
+- REST APIs
+- Authentication Systems
+- Database-driven Applications
+- Business Automation Tools
+
+---
+
+# 🏆 Professional Highlights
+
+- 💼 Professional experience in enterprise software development
+- 🚀 Experience building scalable Laravel applications
+- 🔐 Secure authentication and authorization implementation
+- 📊 Development of responsive admin dashboards
+- ⚡ Database optimization and performance tuning
+- ☁️ AWS Certified Cloud Practitioner
+- 📚 Continuous learner with a passion for modern software engineering
+
+---
+
+# 📜 Certification
+
+🏆 AWS Certified Cloud Practitioner
+
+---
+
+# 📚 Currently Learning
+
+I'm continuously improving my knowledge in:
+
+- Cloud Architecture
+- Docker & Containerization
+- System Design
+- Software Architecture
+- Performance Engineering
+- Modern Development Practices
+
+---
+
+# 🚀 Featured Projects
+
+## Laravel Admin Dashboard
+
+A modern admin dashboard with authentication, role management, reporting, and responsive UI.
+
+---
+
+## REST API Development
+
+Secure RESTful APIs featuring authentication, validation, structured responses, and third-party integrations.
+
+---
+
+## Human Resource Management System
+
+Enterprise HR platform supporting employee management, attendance, leave management, projects, and reporting.
+
+---
+
+## Portfolio Website
+
+Modern responsive portfolio highlighting projects, skills, certifications, and experience.
+
+---
+
+# 🌟 Development Philosophy
+
+I believe great software comes from:
+
+- Understanding the problem before writing code
+- Building maintainable and scalable solutions
+- Writing clean and readable code
+- Continuous learning
+- Team collaboration
+- Delivering value to users
+
+---
+
+# 📈 GitHub
+
+I use GitHub to:
+
+- Showcase personal projects
+- Explore new technologies
+- Experiment with modern development practices
+- Share reusable solutions
+- Continuously improve as a software engineer
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/mehul-panchal-7781181b3">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mehulpanchal7059@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Continuous Learning. Continuous Growth."**
+
+*"Every challenge is an opportunity to become a better engineer."*
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
